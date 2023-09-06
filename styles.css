@@ -1,0 +1,194 @@
+main{
+    background-image: url();
+    text-align: justify;
+   
+}
+
+h1:hover {
+    color: blue;
+}
+
+img{
+    height: 800px;
+    width: 100px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 17px;
+}
+
+p{
+    font-size: 20px;
+}
+
+li{
+    font-size: 20px;
+}
+
+.text-dark:hover {
+    color: aqua;
+}
+
+  
+
+
+i{
+    font-size: 27px;
+}
+
+header{
+    position: fixed;
+    top: 0px;
+    left:0px ;
+    right: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    z-index: 1;
+    
+}
+.gifts {
+    padding-left: 30px;
+    padding-right: 30px;
+   
+}
+.gift {
+    
+    height: 40px;
+
+}
+ 
+.carrusel{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    
+    z-index: -4;
+}
+
+main{
+    padding: 10px;
+    font-family: 'Itim', cursive;
+}
+
+.inicio-vida{
+    padding: 10px;
+}
+.titulo{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic ;
+}
+
+.gato-index{
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+.navbar-brand:hover{
+    color: red;
+}
+
+.nav-link:hover{
+    color: green;
+}
+
+.dropdown-item:hover{
+    color: red;
+}
+.page:hover{
+    color: red;
+}
+
+
+/* ADOPCION */
+
+.card-img-top{
+    height: 200px;
+}
+
+.container1{
+    width: 100%;
+    margin: 20px ;
+    padding: 0px;
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    position: sticky;
+    background-image: url(/IMG/Sin\ título.jpg);
+
+}
+.card{
+    margin-left: 20px;
+}
+.mapa{
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+
+/* AYUDA */
+
+.metodos-de-pago{
+    display: flex;
+}
+
+.Pagos{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 400px;
+    size: 300px;
+    
+
+}
+
+.donar{
+    padding: 10px;
+}
+
+/* RESCATADOS */
+
+.botones{
+    display: inline-block;
+}
+
+/* HAZAÑAS */
+
+.gifts2 {
+    display: flex;
+    padding-top: 20px;
+}
+
+.baile {
+    height: 100px;
+}
+
+
+.prometheus {
+    width: 400px;
+    height: 400px;
+    margin-bottom: 20px;
+   
+   
+}
+
+h4 {
+    text-decoration: underline;
+    
+}
+h4:hover {
+    color: red;
+}
+
+.gatos-rescatados {
+    margin-bottom: 40px;
+}
